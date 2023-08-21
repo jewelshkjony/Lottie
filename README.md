@@ -55,23 +55,10 @@ This event will be triggerrg when the animation started.
 <img src="https://github.com/jewelshkjony/Lottie/raw/main/images/AnimationStarted.png"/>
 
 
-
-
-
-
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.lottie.aix</a> (411 KB) \
 <b>Version:</b> 4.10.0\
-<b>Price:</b> $5 <small>(Transaction charges may apply)</small>
+<b>Price:</b> $5 <sub>(Transaction charges may apply)</sub> \
 <b>Last amendment:</b> 12 July 2022\
 <b>Supported builder:</b> Kodular, Niotron, App Inventor and it's other distributions.
 
